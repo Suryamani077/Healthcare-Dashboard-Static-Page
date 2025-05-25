@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Healthcare-Dashboard-Static-Page/static/css/main.ebfe6027.css",
+    "main.js": "/Healthcare-Dashboard-Static-Page/static/js/main.d82c4f8d.js",
+    "static/js/453.59b8a61b.chunk.js": "/Healthcare-Dashboard-Static-Page/static/js/453.59b8a61b.chunk.js",
+    "static/media/humanImage.png": "/Healthcare-Dashboard-Static-Page/static/media/humanImage.04c5dd188c3ec1859793.png",
+    "static/media/LungsImage.png": "/Healthcare-Dashboard-Static-Page/static/media/LungsImage.8d90eeabe740ed6fa981.png",
+    "index.html": "/Healthcare-Dashboard-Static-Page/index.html",
+    "main.ebfe6027.css.map": "/Healthcare-Dashboard-Static-Page/static/css/main.ebfe6027.css.map",
+    "main.d82c4f8d.js.map": "/Healthcare-Dashboard-Static-Page/static/js/main.d82c4f8d.js.map",
+    "453.59b8a61b.chunk.js.map": "/Healthcare-Dashboard-Static-Page/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebfe6027.css",
+    "static/js/main.d82c4f8d.js"
+  ]
+}
