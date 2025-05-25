@@ -7,6 +7,7 @@ const ActivityChart = () => (
       <h3 className="text-base font-semibold text-primaryColor ">Activity</h3>
       <p className="text-xs  text-gray-400">3 appointment on this week</p>
       </div>
+   
     
       
       <div className="flex  items-end gap-2 justify-between  h-60 md:space-x-2">
